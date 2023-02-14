@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/travless_" target="blank"><img src="https://img.shields.io/twitter/follow/travless_?logo=twitter&style=for-the-badge" alt="travless_" /></a> </p>
 
-- 🌱 I’m currently learning **the Javascript framework, React.**
+- 🌱 I’m currently learning **the Javascript library, React.**
 
 - 👨‍💻 All of my projects are available at [github.com/Travless](github.com/Travless)
 
