@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Travis White</h1>
-<h3 align="center">I'm a front end developer, with full stack aspirations.</h3>
+<h3 align="center">I'm a software developer, with full stack aspirations.</h3>
 
 <p align="left"> <a href="https://twitter.com/travless_" target="blank"><img src="https://img.shields.io/twitter/follow/travless_?logo=twitter&style=for-the-badge" alt="travless_" /></a> </p>
 
