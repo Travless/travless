@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=travless" alt="travless" /></a> </p>
 
-- 🌱 I’m currently learning **additional Angular and ASP.NET development methods.**
+- 🌱 I’m currently learning **C++, Game Engine development, and ECS development**
 
 - 👨‍💻 All of my projects are available at [github.com/Travless](github.com/Travless)
 
